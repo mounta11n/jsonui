@@ -10,7 +10,7 @@
 
 ### or my forked version
 
-`go install github.com/gulyasm/mounta11n@latest`
+`go install github.com/mounta11n/jsonui@latest`
 
 ## Binary Releases
 [Binary releases are availabe](https://github.com/gulyasm/jsonui/releases)
